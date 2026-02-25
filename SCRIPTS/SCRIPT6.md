@@ -1,0 +1,1 @@
+# Example script 6
